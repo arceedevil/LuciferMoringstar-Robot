@@ -43,11 +43,6 @@
             "value": "",
             "required": false
         },
-        "PICS": {
-            "description": "Add some telegraph link of pictures .",
-            "value": "",
-            "required": false
-        },
         "START_MSG": {
             "description": "Welcome message for start command More Information Check Readme.md",
             "value": "",
